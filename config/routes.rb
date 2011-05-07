@@ -1,6 +1,6 @@
 Neveragain::Application.routes.draw do
   root :to => "posts#index"
-  get "sms/post"
+  post "sms/post"
 
   resources :comments
 
