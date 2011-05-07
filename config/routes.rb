@@ -1,4 +1,6 @@
 Neveragain::Application.routes.draw do
+  get "sms/post"
+
   resources :comments
 
   resources :posts
