@@ -1,0 +1,60 @@
+Script started on Mon Aug 22 07:10:03 2011
+]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;lsGemfile      Rakefile     config.ru    [1m[36mlib[39;49m[0m          [1m[36mscript[39;49m[0m       typescript
+Gemfile.lock [1m[36mapp[39;49m[0m          [1m[36mdb[39;49m[0m           [1m[36mlog[39;49m[0m          [1m[36mtest[39;49m[0m         [1m[36mvendor[39;49m[0m
+README       [1m[36mconfig[39;49m[0m       [1m[36mdoc[39;49m[0m          [1m[36mpublic[39;49m[0m       [1m[36mtmp[39;49m[0m
+]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kvvendor
+]2;vendor]1;vendor]2;johannaruiz@destroyer: ~/neveragain/vendor]1;..ragain/vendor[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mvendor [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;ls[1m[36mplugins[39;49m[0m
+]2;johannaruiz@destroyer: ~/neveragain/vendor]1;..ragain/vendor[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mvendor [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K...
+]2;cd ..]1;..]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kaapp
+]2;app]1;app]2;johannaruiz@destroyer: ~/neveragain/app]1;..everagain/app[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mapp [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;ls[1m[36mcontrollers[39;49m[0m [1m[36mhelpers[39;49m[0m     [1m[36mmailers[39;49m[0m     [1m[36mmodels[39;49m[0m      [1m[36mviews[39;49m[0m
+]2;johannaruiz@destroyer: ~/neveragain/app]1;..everagain/app[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mapp [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kccontrolser   ers
+zsh: correct 'controlers' to 'controllers' [nyae]? y
+]2;controllers]1;controllers]2;johannaruiz@destroyer: ~/neveragain/app/controllers]1;..p/controllers[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mcontrollers [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;lsapplication_controller.rb posts_controller.rb
+comments_controller.rb    sms_controller.rb
+]2;johannaruiz@destroyer: ~/neveragain/app/controllers]1;..p/controllers[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mcontrollers [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kssms_s  con   _controller.rb
+]2;sms_controller.rb]1;sms_controller.rbzsh: command not found: sms_controller.rb
+]2;johannaruiz@destroyer: ~/neveragain/app/controllers]1;..p/controllers[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mcontrollers [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kmmate sms) _controller.rb
+]2;mate sms_controller.rb]1;mate]2;johannaruiz@destroyer: ~/neveragain/app/controllers]1;..p/controllers[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mcontrollers [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;lsapplication_controller.rb posts_controller.rb
+comments_controller.rb    sms_controller.rb
+]2;johannaruiz@destroyer: ~/neveragain/app/controllers]1;..p/controllers[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mcontrollers [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K...
+]2;cd ..]1;..]2;johannaruiz@destroyer: ~/neveragain/app]1;..everagain/app[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mapp [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K...
+]2;cd ..]1;..]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kl m mmate .*
+]2;mate .*]1;mate]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Ks ...
+]2;cd ..]1;..]2;johannaruiz@destroyer: ~]1;~[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36m~ [01;34m[01;34m [00m[Klls
+]2;ls -G]1;ls[1m[36mApplications[39;49m[0m              [1m[36mMovies[39;49m[0m                    dead.letter
+[1m[36mDesktop[39;49m[0m                   [1m[36mMusic[39;49m[0m                     mbox
+[1m[36mDocuments[39;49m[0m                 [1m[36mPictures[39;49m[0m                  mm.cfg
+[1m[36mDownloads[39;49m[0m                 [30m[43mPublic[39;49m[0m                    [1m[36mneveragain[39;49m[0m
+[1m[36mDropbox[39;49m[0m                   [1m[36mSites[39;49m[0m                     rails
+[1m[36mHAML-Handcrafted.tmbundle[39;49m[0m [1m[36mStatic-Project-Framework[39;49m[0m  [1m[36mstatic[39;49m[0m
+[1m[36mLibrary[39;49m[0m                   bash_login
+]2;johannaruiz@destroyer: ~]1;~[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36m~ [01;34m[01;34m [00m[Kmmate b nv everagain
+]2;mate neveragain]1;mate]2;johannaruiz@destroyer: ~]1;~[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36m~ [01;34m[01;34m [00m[Klls
+]2;ls -G]1;ls[1m[36mApplications[39;49m[0m              [1m[36mMovies[39;49m[0m                    dead.letter
+[1m[36mDesktop[39;49m[0m                   [1m[36mMusic[39;49m[0m                     mbox
+[1m[36mDocuments[39;49m[0m                 [1m[36mPictures[39;49m[0m                  mm.cfg
+[1m[36mDownloads[39;49m[0m                 [30m[43mPublic[39;49m[0m                    [1m[36mneveragain[39;49m[0m
+[1m[36mDropbox[39;49m[0m                   [1m[36mSites[39;49m[0m                     rails
+[1m[36mHAML-Handcrafted.tmbundle[39;49m[0m [1m[36mStatic-Project-Framework[39;49m[0m  [1m[36mstatic[39;49m[0m
+[1m[36mLibrary[39;49m[0m                   bash_login
+]2;johannaruiz@destroyer: ~]1;~[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36m~ [01;34m[01;34m [00m[Knneveragain
+]2;neveragain]1;neveragain]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;lsGemfile      Rakefile     config.ru    [1m[36mlib[39;49m[0m          [1m[36mscript[39;49m[0m       typescript
+Gemfile.lock [1m[36mapp[39;49m[0m          [1m[36mdb[39;49m[0m           [1m[36mlog[39;49m[0m          [1m[36mtest[39;49m[0m         [1m[36mvendor[39;49m[0m
+README       [1m[36mconfig[39;49m[0m       [1m[36mdoc[39;49m[0m          [1m[36mpublic[39;49m[0m       [1m[36mtmp[39;49m[0m
+]2;johannaruiz@destroyer: ~/neveragain]1;~/neveragain[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mneveragain [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kvvendro  or
+]2;vendor]1;vendor]2;johannaruiz@destroyer: ~/neveragain/vendor]1;..ragain/vendor[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mvendor [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;ls[1m[36mplugins[39;49m[0m
+]2;johannaruiz@destroyer: ~/neveragain/vendor]1;..ragain/vendor[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mvendor [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kpplugins
+]2;plugins]1;plugins]2;johannaruiz@destroyer: ~/neveragain/vendor/plugins]1;..endor/plugins[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mplugins [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls
+]2;ls -G]1;ls]2;johannaruiz@destroyer: ~/neveragain/vendor/plugins]1;..endor/plugins[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mplugins [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Klls.   .*
+]2;ls -G .*]1;ls.gitkeep
+]2;johannaruiz@destroyer: ~/neveragain/vendor/plugins]1;..endor/plugins[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mplugins [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[Kddoc
+zsh: correct 'doc' to 'rdoc' [nyae]? n
+]2;doc]1;doczsh: command not found: doc
+]2;johannaruiz@destroyer: ~/neveragain/vendor/plugins]1;..endor/plugins[1m[7m%[27m[1m[0m                                                                               [0m[27m[24m[J[01;31m➜ [01;32m [36mplugins [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K
